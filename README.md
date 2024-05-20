@@ -8,4 +8,7 @@
 
 ### Reach me!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brentvanmalsen/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](brentvanmalsen.nl) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brentvanmalsen)  
+<a href="https://www.linkedin.com/in/brentvanmalsen/" target="_blank">![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
+</a>
+<a href="mailto: info@brentvanmalsen.nl" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
+</a>
