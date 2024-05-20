@@ -2,7 +2,7 @@
 ### I'm an IT student at Fontys University of Applied Sciences.
 
 - 👀 I'm interested in Web development and UX
-- 🌱 I'm currently specializing in Flutter app development
+- 🌱 I'm currently specializing in Mobile app development with Flutter
 - 📫 Reach me! info@brentvanmalsen.nl (or click a button below)
 
 
