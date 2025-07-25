@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/brentvanmalsen/" target="_blank">![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
 </a>
-<a href="mailto:info@brentvanmalsen.nl" target="_blank">
+<a href="mailto:brentvanmalsen@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-888888?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail">
 </a>
 
