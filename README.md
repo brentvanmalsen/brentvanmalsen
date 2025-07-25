@@ -3,7 +3,7 @@
 
 - 👀 I'm interested in Web development and UX
 - 🌱 I'm currently specializing in Mobile app development with Flutter
-- 📫 Reach me! info@brentvanmalsen.nl (or click a button below)
+- 📫 Reach me! brentvanmalsen@gmail.com (or click a button below)
 
 
 ### Reach me!
