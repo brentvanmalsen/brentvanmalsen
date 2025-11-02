@@ -1,8 +1,8 @@
 ## Hi there 👋, - my name is Brent
 ### I'm an IT student at Fontys University of Applied Sciences.
 
-- 👀 I'm interested in Web development and UX
-- 🌱 I'm currently specializing in Mobile app development with Flutter
+- 👀 I'm interested in UX and Digital Experience Design
+- 🌱 I'm currently following my 7th semester in Media Design Advanced.
 - 📫 Reach me! brentvanmalsen@gmail.com (or click a button below)
 
 
